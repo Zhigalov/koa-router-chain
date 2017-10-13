@@ -1,0 +1,28 @@
+{
+  "name": "koa-router-chain",
+  "version": "1.0.0",
+  "description": "Wrapper for koa-router in chaining style",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhigalov/koa-router-chain.git"
+  },
+  "keywords": [
+    "koa",
+    "koa-router",
+    "router",
+    "chain",
+    "chaining"
+  ],
+  "author": "Sergey Zhigalov <zhigalov@yandex-team.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zhigalov/koa-router-chain/issues"
+  },
+  "homepage": "https://github.com/Zhigalov/koa-router-chain#readme"
+}
